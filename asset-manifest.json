@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game-project/static/css/main.52ca26c8.css",
+    "main.js": "/game-project/static/js/main.964b1f84.js",
+    "index.html": "/game-project/index.html",
+    "main.52ca26c8.css.map": "/game-project/static/css/main.52ca26c8.css.map",
+    "main.964b1f84.js.map": "/game-project/static/js/main.964b1f84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ca26c8.css",
+    "static/js/main.964b1f84.js"
+  ]
+}
