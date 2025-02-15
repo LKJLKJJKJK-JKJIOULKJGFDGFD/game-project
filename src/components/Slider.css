@@ -1,0 +1,7 @@
+.slider {
+    transition: transform 0.2s;
+  }
+  
+  .slider-flipped {
+    transform: scaleX(-1);
+  }
