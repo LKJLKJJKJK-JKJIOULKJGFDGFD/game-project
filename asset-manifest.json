@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/game-project/static/css/main.52ca26c8.css",
-    "main.js": "/game-project/static/js/main.964b1f84.js",
+    "main.css": "/game-project/static/css/main.cba67637.css",
+    "main.js": "/game-project/static/js/main.5ddd0bd2.js",
+    "static/media/jasonface.jpg": "/game-project/static/media/jasonface.4304679015f9977248f3.jpg",
+    "static/media/soccerboot.jpg": "/game-project/static/media/soccerboot.1fc25f8fd861da835fe1.jpg",
     "index.html": "/game-project/index.html",
-    "main.52ca26c8.css.map": "/game-project/static/css/main.52ca26c8.css.map",
-    "main.964b1f84.js.map": "/game-project/static/js/main.964b1f84.js.map"
+    "main.cba67637.css.map": "/game-project/static/css/main.cba67637.css.map",
+    "main.5ddd0bd2.js.map": "/game-project/static/js/main.5ddd0bd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.52ca26c8.css",
-    "static/js/main.964b1f84.js"
+    "static/css/main.cba67637.css",
+    "static/js/main.5ddd0bd2.js"
   ]
 }
